@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **deveshpathak67@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lgBNMI6yn0peW4CyZ3GuVLEE4oNiNJkg/edit?usp=sharing&ouid=110501135649691668842&rtpof=true&sd=true](https://drive.google.com/file/d/1ol0u4P4WgtTg-huICSCNUzRLQR6WeCnl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IzE3j0RVZBQrmVmKTr00dgY3AUvgyg3H/view?usp=sharing)
 
 - ⚡ Fun fact **I can Dance😊**
 
