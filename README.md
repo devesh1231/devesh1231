@@ -1,26 +1,66 @@
-![logo](https://github.com/devesh1231/devesh1231/blob/main/Web%20Designer%20Devesh.png)
-<h1 align="center">Hi 👋, I'm Devesh Kr Pathak</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh1231&label=Profile%20views&color=0e75b6&style=flat" alt="devesh1231" /> </p>
+# Hi there, I'm Devesh! 👋
 
-- 🌱 I’m currently learning **Full stack Development**
+Welcome to my GitHub profile! I'm a software developer with a passion for coding, learning new technologies, and contributing to open-source projects.
 
-- 📫 How to reach me **deveshpathak67@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IzE3j0RVZBQrmVmKTr00dgY3AUvgyg3H/view?usp=sharing)
+- 💻 I love working with various programming languages and frameworks.
+- 🌱 I'm currently learning more about cloud computing and DevOps.
+- 👯 I'm looking to collaborate on exciting open-source projects.
+- 🤔 I'm always eager to learn and share knowledge with the community.
+- 📫 How to reach me: [Email](mailto:devesh1231@example.com)
 
-- ⚡ Fun fact **I can Dance😊**
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devesh-kr-pathak-109764197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-kr-pathak-109764197" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pathakdevesh12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pathakdevesh12" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/call_me_pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="call_me_pandit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/deveshpathak67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/deveshpathak67/" height="30" width="40" /></a>
-</p>
+Here are some of the technologies and tools I work with:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20JavaScript%2C%20Java%2C%20C%2B%2B-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
+![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20React%2C%20Node.js-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
+![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20MongoDB-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%2C%20Kubernetes%2C%20Jenkins-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%2C%20Azure%2C%20Google%20Cloud-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh1231&show_icons=true&locale=en&layout=compact" alt="devesh1231" /></p>
+## 📈 GitHub Stats
+
+![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh1231&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devesh1231&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devesh1231&theme=radical)
+
+## 🏆 Achievements
+
+- 🏅 Winner of XYZ Hackathon 2023
+- 🥇 Top 10% in ABC Coding Challenge
+- 🎖️ Contributor to several popular open-source projects
+
+## 📚 Blog Posts
+
+- [Understanding Kubernetes](https://medium.com/@devesh1231/understanding-kubernetes-123456)
+- [Getting Started with Docker](https://medium.com/@devesh1231/getting-started-with-docker-123456)
+- [A Guide to React Hooks](https://medium.com/@devesh1231/a-guide-to-react-hooks-123456)
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/devesh1231/repo-name/pull/123) in `devesh1231/repo-name`
+2. 💪 Opened PR [#124](https://github.com/devesh1231/repo-name/pull/124) in `devesh1231/repo-name`
+3. 🗣 Commented on [#125](https://github.com/devesh1231/repo-name/issues/125) in `devesh1231/repo-name`
+4. 🚀 Published a new blog post: [A Guide to React Hooks](https://medium.com/@devesh1231/a-guide-to-react-hooks-123456)
+<!--END_SECTION:activity-->
+
+## 🏆 Top Projects
+
+Here are some of my top projects:
+
+1. **[Project Name](https://github.com/devesh1231/project-name):** Short description of the project and its purpose.
+2. **[Project Name](https://github.com/devesh1231/project-name):** Short description of the project and its purpose.
+3. **[Project Name](https://github.com/devesh1231/project-name):** Short description of the project and its purpose.
+
+## 🔗 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devesh1231)
+- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/devesh1231)
+- [![Personal Website](https://img.shields.io/badge/Personal%20Website-blue?style=flat&logo=google-chrome)](https://devesh1231.github.io)
+
+Thank you for visiting my profile! Let's connect and create something amazing together. 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=devesh1231&color=blueviolet)
