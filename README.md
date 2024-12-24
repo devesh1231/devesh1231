@@ -40,14 +40,7 @@ Here are some of the technologies and tools I work with:
 - [Getting Started with Docker](https://medium.com/@devesh1231/getting-started-with-docker-123456)
 - [A Guide to React Hooks](https://medium.com/@devesh1231/a-guide-to-react-hooks-123456)
 
-## ⚡ Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/devesh1231/repo-name/pull/123) in `devesh1231/repo-name`
-2. 💪 Opened PR [#124](https://github.com/devesh1231/repo-name/pull/124) in `devesh1231/repo-name`
-3. 🗣 Commented on [#125](https://github.com/devesh1231/repo-name/issues/125) in `devesh1231/repo-name`
-4. 🚀 Published a new blog post: [A Guide to React Hooks](https://medium.com/@devesh1231/a-guide-to-react-hooks-123456)
-<!--END_SECTION:activity-->
 
 ## 🏆 Top Projects
 
