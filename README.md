@@ -1,4 +1,4 @@
-# Hi there, I'm Devesh! 👋
+# Hi there, I'm Devesh Kr Pathak! 👋
 
 Welcome to my GitHub profile! I'm a software developer with a passion for coding, learning new technologies, and contributing to open-source projects.
 
@@ -8,17 +8,17 @@ Welcome to my GitHub profile! I'm a software developer with a passion for coding
 - 🌱 I'm currently learning more about cloud computing and DevOps.
 - 👯 I'm looking to collaborate on exciting open-source projects.
 - 🤔 I'm always eager to learn and share knowledge with the community.
-- 📫 How to reach me: [Email](mailto:devesh1231@example.com)
+- 📫 How to reach me: [Email](mailto:deveshpathak67@gmail.com) | [LinkedIn](https://www.linkedin.com/in/Devesh) | [GitHub](https://github.com/devesh1231)
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-![Languages](https://img.shields.io/badge/Languages-Python%2C%20JavaScript%2C%20Java%2C%20C%2B%2B-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
-![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20React%2C%20Node.js-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
-![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20MongoDB-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
-![DevOps](https://img.shields.io/badge/DevOps-Docker%2C%20Kubernetes%2C%20Jenkins-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%2C%20Azure%2C%20Google%20Cloud-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB...svg)
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20JavaScript%2C%20Java%2C%20C%2B%2B-informational?style=flat&logo=javascript)
+![Web Development](https://img.shields.io/badge/Web%20Development-HTML%2C%20CSS%2C%20React%2C%20Node.js-informational?style=flat&logo=html5)
+![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20MongoDB-informational?style=flat&logo=mysql)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%2C%20Kubernetes%2C%20Jenkins-informational?style=flat&logo=docker)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%2C%20Azure%2C%20Google%20Cloud-informational?style=flat&logo=amazonaws)
 
 ## 📈 GitHub Stats
 
@@ -28,9 +28,11 @@ Here are some of the technologies and tools I work with:
 
 ## 🏆 Achievements
 
-- 🏅 Winner of XYZ Hackathon 2023
-- 🥇 Top 10% in ABC Coding Challenge
-- 🎖️ Contributor to several popular open-source projects
+- 🏅 Achieved 1873 in Weekly contest 375 among 30,000+ participants.
+- 🥇 Achieved 1st Rank in College Coding Competition 2022 among 100+ teams.
+- 🎖️ Ranked 1079 in Kickstart Round (H) 2022 among 25,000+ participants.
+- Stood 150 in Codechef Starters 25 (Div 2) among 20,000+ participants.
+- Top 11 percent on Leetcode (Highest Rating – 1710) [View Profile](https://leetcode.com/devesh1231).
 
 ## 📚 Blog Posts
 
@@ -51,13 +53,15 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my top projects:
 
-1. **[Project Name](https://github.com/devesh1231/project-name):** Short description of the project and its purpose.
-2. **[Project Name](https://github.com/devesh1231/project-name):** Short description of the project and its purpose.
-3. **[Project Name](https://github.com/devesh1231/project-name):** Short description of the project and its purpose.
+1. **[CollegeToCarrer/Backend](https://github.com/CollegeToCarrer/Backend):** A backend service for managing college to career transition, built with TypeScript.
+2. **[UPSC-Hindi/backend](https://github.com/UPSC-Hindi/backend):** Backend service for UPSC Hindi preparation platform, developed using JavaScript and HTML.
+3. **[SN-Mentoring/backend](https://github.com/SN-Mentoring/backend):** Backend service for a mentoring platform, written in JavaScript.
+4. **[SD-campus](https://github.com/devesh1231/SD-campus):** Developed a feature-rich mobile app with over 100K downloads on the Play Store.
+5. **[App Invictaa](https://github.com/devesh1231/App-Invictaa):** Developed a feature-rich mobile app with over 10K downloads on the Play Store.
 
 ## 🔗 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devesh1231)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Devesh)
 - [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/devesh1231)
 - [![Personal Website](https://img.shields.io/badge/Personal%20Website-blue?style=flat&logo=google-chrome)](https://devesh1231.github.io)
 
