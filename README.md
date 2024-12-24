@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for coding
 - 🌱 I'm currently learning more about cloud computing and DevOps.
 - 👯 I'm looking to collaborate on exciting open-source projects.
 - 🤔 I'm always eager to learn and share knowledge with the community.
-- 📫 How to reach me: [Email](mailto:deveshpathak67@gmail.com) | [LinkedIn](https://www.linkedin.com/in/Devesh) | [GitHub](https://github.com/devesh1231)
+- 📫 How to reach me: [Email](mailto:deveshpathak67@gmail.com) | [LinkdIn](https://www.linkedin.com/in/devesh-kr-pathak-109764197/) | [GitHub](https://github.com/devesh1231)
 
 ## 🛠️ Technologies & Tools
 
@@ -61,8 +61,7 @@ Here are some of my top projects:
 
 ## 🔗 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Devesh)
-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/devesh1231)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devesh-kr-pathak-109764197/)
 - [![Personal Website](https://img.shields.io/badge/Personal%20Website-blue?style=flat&logo=google-chrome)](https://devesh1231.github.io)
 
 Thank you for visiting my profile! Let's connect and create something amazing together. 🚀
